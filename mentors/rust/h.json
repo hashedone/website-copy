@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "github_username": "hashedone",
+    "name": "Bartłomiej Kuras",
+    "link_text": null,
+    "link_url": null,
+    "avatar_url": null,
+    "bio": "System software developer who fell in love with Rust. I used to using it in work before, now I am coorganizer of Rust Wrocław group"
+  }
+]
